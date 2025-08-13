@@ -1,46 +1,45 @@
-# 💳 نظام إدارة بنكي متكامل بلغة C++
+# 💳 Integrated Banking Management System in C++
 
-نظام سطر أوامر متقدم يحاكي العمليات البنكية باستخدام C++ مع تخزين البيانات محليًا في ملفات.
-
----
-
-## 🧰 الوظائف الرئيسية
-
-- 👥 إدارة العملاء:
-  - عرض / إضافة / حذف / تحديث العملاء.
-- 🔍 البحث عن عميل باستخدام رقم الحساب.
-- 💰 العمليات البنكية:
-  - إيداع، سحب، تحويل، وعرض إجمالي الأرصدة.
-  - سجل التحويلات بين الحسابات.
-- 👤 إدارة المستخدمين:
-  - إضافة، حذف وتحديث المستخدمين مع ضبط صلاحياتهم (عرض فقط، تنفيذ عمليات، صلاحيات كاملة...).
-- 💱 تحويل العملات:
-  - عرض العملات، البحث، تحديث السعر، آلة حاسبة للعملات.
-- 🗂️ إدارة الدخول وسجل الاستخدام.
+An advanced command-line system that simulates banking operations using C++ with local data storage in files.
 
 ---
 
-## 🗄️ طريقة تخزين البيانات
+## 🧰 Main Functions
 
-يتم تخزين جميع البيانات في ملفات نصية (`*.txt`) منظمة على شكل أسطر وقيم مفصولة بعلامة محددة (مثل `#//#`).
+- 👥 Customer Management:
+  - View / Add / Delete / Update customers.
+- 🔍 Search for a customer by account number.
+- 💰 Banking Operations:
+  - Deposit, withdraw, transfer, and display total balances.
+  - Transfer history between accounts.
+- 👤 User Management:
+  - Add, delete, and update users with permission control (view only, perform operations, full access...).
+- 💱 Currency Exchange:
+  - View currencies, search, update rates, currency calculator.
+- 🗂️ Login management and usage log.
 
 ---
 
-## 🛠️ المتطلبات
+## 🗄️ Data Storage Method
+
+All data is stored in text files (`*.txt`) organized as lines and values separated by a specific delimiter (such as `#//#`).
+
+---
+
+## 🛠️ Requirements
 
 - C++ Compiler.
 - Command Line.
-  
+
 ---
 
-## 👨‍💻 المطور
+## 👨‍💻 Developer
 
 - **Hassan Risan**  
 - [GitHub: HassanRisan](https://github.com/HassanRisan)
 
 ---
 
-## 📜 الترخيص
+## 📜 License
 
-هذا المشروع لأغراض تعليمية أو تجريبية. لم يتم اعتماده رسميًا من أي جهة.
-
+This project is for educational or experimental purposes. It has not been officially approved by any authority.
