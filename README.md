@@ -33,6 +33,12 @@ All data is stored in text files (`*.txt`) organized as lines and values separat
 
 ---
 
+## 👤 Account 
+
+- Username: u1
+- Password: 1234
+
+---
 ## 👨‍💻 Developer
 
 - **Hassan Risan**  
