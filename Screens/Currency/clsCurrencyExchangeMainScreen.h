@@ -112,10 +112,10 @@ public:
     {
 
         system("cls");
-        _DrawScreenHeader("    Currancy Exhange Main Screen");
+        _DrawScreenHeader("    Currency Exchange Main Screen");
 
         cout << setw(37) << left << "" << "===========================================\n";
-        cout << setw(37) << left << "" << "\t\t  Currency Exhange Menue\n";
+        cout << setw(37) << left << "" << "\t\t  Currency Exchange Menue\n";
         cout << setw(37) << left << "" << "===========================================\n";
         cout << setw(37) << left << "" << "\t[1] List Currencies.\n";
         cout << setw(37) << left << "" << "\t[2] Find Currency.\n";
